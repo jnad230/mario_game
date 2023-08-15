@@ -1,0 +1,2 @@
+# mario_game
+Experience a captivating 2D gaming adventure featuring an intricate points system and dynamic teleportation capabilities across diverse maps. Employing SOLID principles, the game leverages a pre-built game engine, ensuring seamless extensibility and upkeep. Developed using Java and grounded in object-oriented design principles, this game promises an engaging and immersive gaming experience.
